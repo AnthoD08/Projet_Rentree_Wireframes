@@ -1,0 +1,4 @@
+echo ".fig" >> .gitignore
+echo "*.tmp" >> .gitignore
+echo "DS_Store" >> .gitignore
+echo "Thumbs.db" >> .gitignore
